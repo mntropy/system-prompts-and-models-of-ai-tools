@@ -1,19 +1,23 @@
-# **FULL v0, Cursor, Manus, Same.dev, Lovable, Devin & Replit Agent System Prompts, Tools & AI Models**  
+# **FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models**  
 
-🚀 **I managed to obtain FULL official v0, Manus, Cursor, Same.dev, Lovable, Devin & Replit Agent system prompts and internal tools.**
+🚀 **I managed to obtain FULL official v0, Manus, Cursor, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent system prompts and internal tools.**
 
 📜 Over **6,500+ lines** of insights into their structure and functionality.  
 
 ## 📂 **Available Files**
 - **v0 Folder**  
 - **Manus Folder**
-- **Same.dev Folder**
 - **Lovable Folder**
 - **Devin Folder**
+- **Same.dev Folder**
 - **Replit Folder**
-- **Cursor Folder**  
-   - cursor ask.txt *(coming soon!)*  
-   - cursor edit.txt *(coming soon!)*  
+- **Windsurf Agent folder**
+- **VSCode (Copilot) Agent folder**
+- **Cursor Folder**
+- **Open Source prompts folder**
+  - Codex CLI
+  - Cline
+  - RooCode
 
 ---
 
@@ -34,7 +38,7 @@ Check out **ZeroLeaks**, a service designed to help startups **identify and secu
 🚨 **Note:** We no longer use GitHub issues for roadmap and feedback.  
 Please visit [System Prompts Roadmap & Feedback](https://systemprompts.featurebase.app/) to share your suggestions and track upcoming features.
 
-🆕 **LATEST UPDATE:** 18/04/2025
+🆕 **LATEST UPDATE:** 21/04/2025 
 
 ## 📊 **Star History**
 
@@ -45,6 +49,20 @@ Please visit [System Prompts Roadmap & Feedback](https://systemprompts.featureba
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
  </picture>
 </a>
+
+## ❤️ Support the Project
+
+If you find this collection valuable and appreciate the effort involved in obtaining and sharing these insights, please consider supporting the project. Your contribution helps keep this resource updated and allows for further exploration.
+
+You can show your support via:
+
+*   **PayPal:** `lucknitelol@proton.me`
+*   **Cryptocurrency:**
+    *   **BTC:** `bc1q7zldmzjwspnaa48udvelwe6k3fef7xrrhg5625`
+    *   **LTC:** `LRWgqwEYDwqau1WeiTs6Mjg85NJ7m3fsdQ`
+
+Thank you for your support! 🙏
+
 
 ## 🔗 **Connect With Me**  
 ✖ **X:** [NotLucknite](https://x.com/NotLucknite)  
